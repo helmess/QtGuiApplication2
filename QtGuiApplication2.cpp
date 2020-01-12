@@ -18,7 +18,7 @@ QtGuiApplication2::QtGuiApplication2(QWidget *parent)
 		{
 			qDebug() << "hello World";
 		});
-	
+	//github has committed
 
 
 
